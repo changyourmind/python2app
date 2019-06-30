@@ -1,5 +1,7 @@
 # python2app
-convert python to app of android
+convert python to app of android 
+
+
 Python routines to build Android projects
 This is a simple Python module to help you build Android projects, from code to apk. It exists because I can't stand Ant.
 
@@ -129,3 +131,8 @@ Important files are:
 platform/sdk: files/ant/main_rules.xml
 platform/sdk: anttasks/src/com/android/ant/AntConstants.java
 platform/sdk: anttasks/src/com/android/ant/SetupTask.java
+
+
+ Ref:
+ 
+ 
